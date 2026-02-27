@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hobbly1/static/css/main.5524b0d6.css",
-    "main.js": "/hobbly1/static/js/main.417f39c4.js",
-    "static/js/69.822b08a6.chunk.js": "/hobbly1/static/js/69.822b08a6.chunk.js",
-    "static/js/453.0fd27f7f.chunk.js": "/hobbly1/static/js/453.0fd27f7f.chunk.js",
-    "index.html": "/hobbly1/index.html",
-    "main.5524b0d6.css.map": "/hobbly1/static/css/main.5524b0d6.css.map",
-    "main.417f39c4.js.map": "/hobbly1/static/js/main.417f39c4.js.map",
-    "69.822b08a6.chunk.js.map": "/hobbly1/static/js/69.822b08a6.chunk.js.map",
-    "453.0fd27f7f.chunk.js.map": "/hobbly1/static/js/453.0fd27f7f.chunk.js.map"
+    "main.css": "/HOBBLY1/static/css/main.5524b0d6.css",
+    "main.js": "/HOBBLY1/static/js/main.3b9ac719.js",
+    "static/js/69.822b08a6.chunk.js": "/HOBBLY1/static/js/69.822b08a6.chunk.js",
+    "static/js/453.0fd27f7f.chunk.js": "/HOBBLY1/static/js/453.0fd27f7f.chunk.js",
+    "index.html": "/HOBBLY1/index.html",
+    "main.5524b0d6.css.map": "/HOBBLY1/static/css/main.5524b0d6.css.map",
+    "main.3b9ac719.js.map": "/HOBBLY1/static/js/main.3b9ac719.js.map",
+    "69.822b08a6.chunk.js.map": "/HOBBLY1/static/js/69.822b08a6.chunk.js.map",
+    "453.0fd27f7f.chunk.js.map": "/HOBBLY1/static/js/453.0fd27f7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5524b0d6.css",
-    "static/js/main.417f39c4.js"
+    "static/js/main.3b9ac719.js"
   ]
 }
